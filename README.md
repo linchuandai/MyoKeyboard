@@ -24,3 +24,9 @@ A single downward movement chooses the current character as the written characte
 A double downward movement creates a space and starts a new word.
 
 A twist of the arm increases and decreases the speed of typing depending on the it is a clockward or counter-clockward twist respectively. 
+
+<b>Binary Tree</b>
+
+A picture of the binary tree used in the project is provided below.
+
+![ScreenShot]https://github.com/linchuandai/MyoKeyboard/blob/master/Tree%20Chart.png
