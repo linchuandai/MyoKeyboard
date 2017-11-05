@@ -1,6 +1,6 @@
 # MyoType
 
-<b>Setting up the MyoKeyboard</b>
+<b>Setting up the MyoType</b>
 
 To ultilize this tool, go to https://developer.thalmic.com/downloads and download their sdk and firmware for you desired device. 
 
@@ -11,7 +11,7 @@ Run the code and have fun using your arm as a keyboard.
 
 <b>Using the MyoKeyboard</b>
 
-The MyoKeyboard has 7 distinct controls.
+The MyoType has 7 distinct controls.
 
 A left movement shifts left on the morse code binary tree.
 
@@ -29,4 +29,4 @@ A twist of the arm increases and decreases the speed of typing depending on the 
 
 A picture of the binary tree used in the project is provided below.
 
-![ScreenShot](https://github.com/linchuandai/MyoKeyboard/blob/master/Tree%20Chart.png)
+![ScreenShot](https://github.com/linchuandai/MyoType/blob/master/Tree%20Chart.png)
