@@ -1,6 +1,6 @@
 # MyoKeyboard
 
-Setting up the MyoKeyboard
+<b>Setting up the MyoKeyboard</b>
 
 To ultilize this tool, go to https://developer.thalmic.com/downloads and download their sdk and firmware for you desired device. 
 
@@ -9,7 +9,7 @@ Then navigate to https://developer.thalmic.com/docs/api_reference/platform/getti
 Run the code and have fun using your arm as a keyboard.
 
 
-Using the MyoKeyboard
+<b>Using the MyoKeyboard</b>
 
 The MyoKeyboard has 7 distinct controls.
 
