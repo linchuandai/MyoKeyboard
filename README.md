@@ -1,4 +1,4 @@
-# MyoKeyboard
+# MyoType
 
 <b>Setting up the MyoKeyboard</b>
 
