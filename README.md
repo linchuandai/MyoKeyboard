@@ -29,4 +29,4 @@ A twist of the arm increases and decreases the speed of typing depending on the 
 
 A picture of the binary tree used in the project is provided below.
 
-!([ScreenShot]https://github.com/linchuandai/MyoKeyboard/blob/master/Tree%20Chart.png)
+![ScreenShot](https://github.com/linchuandai/MyoKeyboard/blob/master/Tree%20Chart.png)
